@@ -9,6 +9,7 @@ export default class myapp extends Component{
         <View>
           <Component2  />
         </View>
+        <View></View>
       );
   }
 }
